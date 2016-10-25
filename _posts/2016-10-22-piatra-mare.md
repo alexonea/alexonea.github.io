@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Valea Alba - Brana Mare a Costilei
+title: Cabana Piatra Mare
 categories:
 - blog
 ---
